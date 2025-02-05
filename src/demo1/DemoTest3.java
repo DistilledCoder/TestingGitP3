@@ -12,7 +12,9 @@ public static void main(String[] args) {
 	System.out.println(result);
 
 	System.out.println("test of pull from Git Hub");
-
-	System.out.println("making changes so that I can do better analysis");
 }
+
+	public void add (int a, int b) {
+		System.out.println(a + b);
+	}
 }
